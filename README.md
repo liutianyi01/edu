@@ -1,0 +1,2 @@
+# edu
+study linux
